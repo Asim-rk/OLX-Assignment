@@ -1,0 +1,87 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin:auto;
+	width: 80%;
+}
+
+.account {
+   font-family: sans-serif;
+   color: #1c56aa;
+   font-weight: 900;
+
+}
+.ad{
+   background: orange;
+   box-shadow: 4px 4px 4px inset black;
+   padding: 20px 20px 40px  20px;
+
+   color: white;
+   border-radius: 5px;
+   margin: 5px;
+}
+header .account{
+   float: right;
+   margin: 30px;
+}
+.form table tr td  {
+   padding: 10px;
+}
+.form table tr td span{
+   font-size: 12px;
+}
+.div1 {
+   margin: 10px;  }
+.title {
+   float: left;
+   text-align: right;
+}
+.radio-buttons label {
+   float: none;}
+.submit {
+   text-align: right;}
+input {
+   text-align: right;
+}
+div.frm {
+   border-right: 1px solid gainsboro;
+   padding: 10px;
+   float: left;
+   margin-left: 30px;
+   width: 350px;
+   height: 200px;
+   margin-right: 80px;
+}
+
+#register {
+   padding: 15px;
+   margin-top: 60px;
+   background: steelblue;
+   color: black;
+   font-weight: 900;
+   width: 150px;
+   height: 50px;
+   text-align: center;
+}
+.form {
+   border: 1px solid gainsboro;
+   height: 350px;
+   width: 80%;
+   margin: 0 auto;
+
+}
+.create #createAccount {
+   margin-left: 90px;
+   color: #ababab;
+}
+.create {
+   margin-top: 30px
+}
+footer{
+   background: #f6f6f6;
+   text-align: center;
+   padding-bottom: 350px;
+   margin-top: 30px;
+}
+
